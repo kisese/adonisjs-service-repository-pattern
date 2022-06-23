@@ -9,6 +9,9 @@ https://github.com/adonisjs/core/discussions/1881
 https://docs.adonisjs.com/guides/application
 
 ## Try it
+
+```bash
 node ace serve --watch
+```
 
 http://127.0.0.1:3333/api/orders
