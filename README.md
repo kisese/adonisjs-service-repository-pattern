@@ -11,6 +11,8 @@ https://docs.adonisjs.com/guides/application
 ## Try it
 
 ```bash
+npm install
+
 node ace serve --watch
 ```
 
