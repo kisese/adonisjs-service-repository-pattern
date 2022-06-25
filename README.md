@@ -19,6 +19,8 @@ cp .env.example .env
 ```bash
 npm install
 
+node ace generate:key
+
 node ace migration:run
 
 node ace serve --watch
